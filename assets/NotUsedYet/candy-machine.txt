@@ -1,0 +1,17 @@
+Verify Cmd Output
+---------------------
+wallet public key: 3PFemqCjoeSVUtJZjQ5L1BzgS6ZLpBSAyTrx32HRJguS
+Name Sparkling Ambedkar with https://arweave.net/ncfgvpsy6bO74sCW-1wyXhbLl7jwmav7yLp5P-bTl1c checked out
+Name Sparkling Che Guevara with https://arweave.net/bWegrxGN7c15rpkOsm7WG5haGN_DIYHl3BMSKvz02Es checked out
+Name Sparkling Periyar with https://arweave.net/qzrySmFtaLmdTDKdiy0qva1kfmiJtkDCUSXewrn1J_s checked out
+
+Create Candy machine Output
+---------------------------
+wallet public key: 3PFemqCjoeSVUtJZjQ5L1BzgS6ZLpBSAyTrx32HRJguS
+create_candy_machine finished. candy machine pubkey: warxMjCx3GhDhfazr4yWX53nvwdXXCw6DPYrjDrTZQU
+
+Update Candy machine Output
+---------------------------
+wallet public key: 3PFemqCjoeSVUtJZjQ5L1BzgS6ZLpBSAyTrx32HRJguS
+ - updated startDate timestamp: 1638317520 (1 Dec 2021 00:12:00 GMT)
+update_candy_machine finished 2QhKo8TrPuhcN3i6cKrbwmMU2714dqYWKkJrV2DGJfga1NRWupSd9P46hg4iU8kiX9tQ21L4PVBBWLUYjsQm4viw

@@ -1,0 +1,20 @@
+{
+  "name": "Sparkling Ambedkar",
+  "symbol": "",
+  "image": "ambed_sparkle.png",
+  "collection": { "name": "Fascist Slayers NFT", "family": "FacistSlayers" },
+  "properties": {
+    "files": [
+      {
+        "uri": "ambed_sparkle.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "3PFemqCjoeSVUtJZjQ5L1BzgS6ZLpBSAyTrx32HRJguS",
+        "share": 100
+      }
+    ]
+  }
+}
