@@ -261,11 +261,6 @@ const CandyMachine = ({ walletAddress }) => {
     });
   };
 
-
-  useEffect(() => {
-    getCandyMachineState()
-  }, [])
-
   const getProvider = () => {
 
     const rpcHost = process.env.REACT_APP_SOLANA_RPC_HOST;
@@ -356,6 +351,11 @@ const CandyMachine = ({ walletAddress }) => {
     return <p>{`Drop Date: ${machineStats.goLiveDateTimeString}`}</p>;
   };
 
+
+  useEffect(() => {
+    getCandyMachineState()
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [])
 
   return (
     machineStats && (
